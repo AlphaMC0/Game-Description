@@ -1,6 +1,9 @@
 # Game_History
 **Entry 1** :
 **Lazer Door 2/11/2040**
-- Dr.Sopheara invented the lazer door a revolutionary invention that helped protect the world against invading aliens. He invented this door in the main lab of the IAPA( International Alien Protection Agency ). His 
-  invention led to the countless victories of mankind and the complete eratication of the aliens of the face of the earth in 26/1/2060. 
-- Dr.Sopheara 
+>**Invention**
+- Dr.Sopheara invented the lazer door a revolutionary invention in 1/5/2040. He developed the lazer door with the help of Dr. Sokcha in the labs of IAPA ( International Alien Protection Agency ) .
+-
+- Dr.Sopheara's invention helped mankind to win in the alien war.He recived the Nobel Peace Prize in 11/11/2045 and 10 billion dollars as a reward for his invention.
+- Dr.Sopheara explained the lazer door is powered by the recently discovered ore Mithril. He also said "The lazer door will go nuclear if the Mithril core is overloaded with power.
+- Throughout the years Dr.Sopheara perfected the design of the lazer door preventing the door from ever being used as a offensive weapon. 
