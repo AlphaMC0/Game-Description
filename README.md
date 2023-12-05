@@ -1,2 +1,3 @@
 # Game_History
-/**Lazer Door**
+**Entry 1** :
+**Lazer Door**
