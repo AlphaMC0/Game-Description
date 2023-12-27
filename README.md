@@ -7,6 +7,6 @@ Lone Martian is UGDT's new Sci-fi Adventure.
 
 Rated for 12+
 Contains Moderate Violence and Weapons
-**Game Info**
-Version : 1
-Download Size : 
+# Game Info
+>Version : 1
+>Download Size : 
