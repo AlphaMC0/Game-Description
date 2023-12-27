@@ -8,7 +8,7 @@ Lone Martian is UGDT's new Sci-fi Adventure.
 - **Service Email**: 
 - **Rated for 12+**: Contains Moderate Violence and Weapons
 - **Recommended**  : 16GB Ram 
-# Game Info
+**Game Info**
 - Version          : 1.0
 - Download Size    :
 - Required Systems : Windows or MacOS
