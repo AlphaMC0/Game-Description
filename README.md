@@ -3,7 +3,7 @@ Lone Martian is now available! Repair your ship to escape Mars.
 
 Lone Martian is UGDT's new Sci-fi Adventure.
 
-You wake up in Base-51 you aquire materials, build weapons, kill monsters and repair the ship to reach the Space Station to return to Earth.
+>Build Weapons and Kill the Monsters that threaten your safety and your base's safety and collect their energy to turn into food.<
 
 - **Service Email**: 
 - **Rated for 12+**: Contains Moderate Violence and Weapons
