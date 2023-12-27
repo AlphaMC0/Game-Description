@@ -1,7 +1,7 @@
 # About This Game
 Lone Martian is now available! Repair your ship to escape Mars.
 
-Lone Martian is UGDT's new Sci-fi Adventure.
+Lone Martian is Surge's new Sci-fi Adventure.
 
 - Build Weapons and Kill the Monsters - Build weapons to kill monsters that threaten your safety and your base's safety and collect their energy to turn into food.
 
@@ -11,12 +11,12 @@ Lone Martian is UGDT's new Sci-fi Adventure.
 
 - **Service Email**: 
 - **Rated for 12+**: Contains Moderate Violence and Weapons
-- **Recommended**  : 16GB Ram
+- **Recommended**  : 16GB Ram :D
 **                                                                **
 **Game Info**
 - Version          : 1.0
 - Download Size    :
 - Required Systems : Windows or MacOS
-- Offered by       : Unity Game Development Team.JPA
+- Offered by       : Surge Studios
 - Released on      :
 - App Permissions  :
