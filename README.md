@@ -9,7 +9,7 @@ Lone Martian is Surge's new Sci-fi Adventure.
 
 - Defeat Bosses - Defeat bosses to recive special rewards to help you repair your ship and your weapons.
 
-- **Service Email**: surgestudios@jpa.org.kh
+- **Service Email**: surgestudiosugdt@gmail.com
 - **Rated for 12+**: Contains Moderate Violence and Weapons
 - **Recommended**  : 16GB Ram :D
 **                                                                                          **
