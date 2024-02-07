@@ -15,7 +15,7 @@ Lone Martian is Surge's new Sci-fi Adventure.
 **                                                                                          **
 **Game Info**
 - Version          : 1.0
-- Download Size    : IDK
+- Download Size    : 40 GB LOL
 - Required Systems : Windows or MacOS
 - Offered by       : Surge Studios
 - Released on      : NO DATE YET
